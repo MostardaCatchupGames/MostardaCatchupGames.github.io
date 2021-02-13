@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mostardacatchupgames.github.io
+Token: 475658787d66697469614382a6906bc9959547c6e09798c148acc0a028eb81bd
